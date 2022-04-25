@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relContainer"
+    android:layout_margin="@dimen/_5sdp"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_80sdp">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardItemWatch"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_margin="@dimen/_5sdp"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardCornerRadius="@dimen/_5sdp"
+        app:cardElevation="@dimen/_minus1sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageSearchResult"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_background" />
+    </androidx.cardview.widget.CardView>
+
+
+    <!--    <androidx.appcompat.widget.LinearLayoutCompat-->
+    <!--        android:id="@+id/rCenter"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:layout_gravity="center"-->
+    <!--        android:layout_marginStart="@dimen/_5sdp"-->
+    <!--        android:layout_toEndOf="@+id/cardItemWatch"-->
+    <!--        android:orientation="vertical">-->
+
+    <TextView
+        android:id="@+id/titleSearchResult"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:ellipsize="end"
+        android:fontFamily="@font/poppins_regular"
+        android:maxLines="2"
+        android:text="ssa"
+        android:textColor="@color/black"
+
+        android:textSize="15sp"
+        app:layout_constraintEnd_toStartOf="@+id/imageMoreSearchResult"
+        app:layout_constraintStart_toEndOf="@+id/cardItemWatch"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    </androidx.appcompat.widget.LinearLayoutCompat>-->
+
+
+    <TextView
+        android:id="@+id/subTitleSearchResult"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:fontFamily="@font/poppins_regular"
+        android:singleLine="true"
+        android:text="ssa"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageMoreSearchResult"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/cardItemWatch"
+        app:layout_constraintTop_toBottomOf="@+id/titleSearchResult"
+        app:layout_constraintVertical_bias="0.609" />
+
+    <ImageView
+        android:id="@+id/imageMoreSearchResult"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_more_horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

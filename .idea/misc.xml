@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/drawable/ic_nav_two.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/drawable/ic_play_arrow.xml" value="0.14635416666666667" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/drawable/ic_search.xml" value="0.2703125" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/drawable/search_view_background.xml" value="0.2703125" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout-land/activity_detail_page.xml" value="0.19166666666666668" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout-land/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout-land/fragment_watch.xml" value="0.19166666666666668" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/activity_detail_page.xml" value="0.32439024390243903" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/activity_splash.xml" value="0.24010416666666667" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/fragment_watch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/genres_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/search_frag_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/search_result_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/layout/watch_frag_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mudassir/GourmetProjects/MiniMines/MoviesDemo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Administrator/Downloads/Movie-Demo-master/app/src/main/res/drawable/ic_movie_logo.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/Administrator/Downloads/Movie-Demo-master/app/src/main/res/layout-land/activity_detail_page.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Administrator/Downloads/Movie-Demo-master/app/src/main/res/layout/activity_detail_page.xml" value="0.176" />
+        <entry key="..\:/Users/Administrator/Downloads/Movie-Demo-master/app/src/main/res/layout/activity_main.xml" value="0.11778115501519756" />
+        <entry key="..\:/Users/Administrator/Downloads/Movie-Demo-master/app/src/main/res/layout/activity_splash.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Administrator/Downloads/Movie-Demo-master/app/src/main/res/layout/watch_frag_list_items.xml" value="0.11778115501519756" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

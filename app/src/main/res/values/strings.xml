@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies Demo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result_not_found"> Results Found</string>
+    <string name="item_release_date">In theaters december 22, 2021</string>
+    <string name="item_description">As a collection of history\'s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them. Discover the origins of the very first independent intelligence agency in The King\'s Man. The Comic Book “The Secret Service” by Mark Millar and Dave Gibbons.</string>
+    <string name="get_tickets">Get Tickets</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="watch">Watch</string>
+    <string name="overview">Overview</string>
+    <string name="genres">Genres</string>
+    <string name="nothing_yet">Please navigate to Watch tab</string>
+    <string name="tv_shows_movies_and_more">TV shows, movies and more</string>
+    <string name="top_results">Top Results</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="action">Action</string>
+    <string name="timeless">Timeless</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="media_library">Media Library</string>
+    <string name="more">More</string>
+    <string name="in_theaters">In Theaters </string>
+</resources>
